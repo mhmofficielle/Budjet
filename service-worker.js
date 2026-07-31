@@ -1,9 +1,9 @@
 const CACHE_NAME = 'mon-budget-v1';
 const FILES = [
-  './suivi-depenses.html',
+  './index.html',
   './manifest.json',
-  './icon-192.png',
-  './icon-512.png'
+  './wallet-192.png',
+  './wallet-512.png'
 ];
 
 self.addEventListener('install', (e) => {
