@@ -1,0 +1,14 @@
+{
+  "name": "Mon Budget",
+  "short_name": "Budget",
+  "description": "Suivi personnel des recettes et dépenses",
+  "start_url": "./suivi-depenses.html",
+  "display": "standalone",
+  "background_color": "#10151C",
+  "theme_color": "#10151C",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
